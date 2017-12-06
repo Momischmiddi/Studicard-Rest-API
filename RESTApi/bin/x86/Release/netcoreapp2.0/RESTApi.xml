@@ -1,0 +1,74 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>RESTApi</name>
+    </assembly>
+    <members>
+        <member name="M:NFCDataRESTApi.Controllers.DataBaseOperationsController.ClearDataBase(System.String,System.String)">
+            <summary>
+            Clears all cardinformations from the database.
+            </summary>
+            <param name="matrNr">The matr.Nr. to validate the users rights.</param>
+            <param name="password">The password fot the matr.Nr.</param>
+            <returns>A Message, if deleting the database-entries was successful.</returns>
+        </member>
+        <member name="M:NFCDataRESTApi.Controllers.NFCDataController.GetAllCardsInformationFromDataBase(System.String,System.String)">
+            <summary>
+            Gets all available card informations from the database.
+            </summary>
+            <returns>A List of the card informations</returns>
+        </member>
+        <member name="M:NFCDataRESTApi.Controllers.NFCDataController.PutCardInformation(NFCDataRESTApi.Models.CardInformationModel,System.String,System.String)">
+            <summary>
+            Puts a cardinformation to the database.
+            </summary>
+            <param name="matrNr">The matr.Nr. to validate the users rights.</param>
+            <param name="password">The password fot the matr.Nr.</param>
+            <returns>A Message, if writing to the database was successful</returns>
+        </member>
+        <member name="M:NFCDataRESTApi.Controllers.NFCDataController.GetAverage(System.String,System.String)">
+            <summary>
+            Gets the average for each property of the CardInformationModel.
+            </summary>
+            <param name="matrNr">The matr.Nr. to validate the users rights.</param>
+            <param name="password">The password fot the matr.Nr.</param>
+            <returns>A CardInformationModel, which contains the average of each property.</returns>
+        </member>
+        <member name="M:NFCDataRESTApi.Controllers.NFCDataController.RemoveCardById(System.String,System.String,System.String)">
+            <summary>
+            Removes the card with the given ID.
+            </summary>
+            <returns>String if successfull</returns>
+        </member>
+        <member name="M:NFCDataRESTApi.Controllers.NFCDataController.GetScannedCardAmount(System.String,System.String)">
+            <summary>
+            Gets the amount of cards scanned from the arduino.
+            </summary>
+            <returns>The amount of the scanned cards.</returns>
+        </member>
+        <member name="M:NFCDataRESTApi.Controllers.UserController.GetInfo(System.String,System.String)">
+            <summary>
+            Returns an info of the users in the system.
+            </summary>
+            <param name="matrNr">The matr.Nr. to validate the users rights.</param>
+            <param name="password">The password fot the matr.Nr.</param>
+            <returns>A list of the developers.</returns>
+        </member>
+        <member name="M:NFCDataRESTApi.Controllers.UserController.PutUserToDataBase(NFCDataRESTApi.Models.AddUserModel,System.String,System.String)">
+            <summary>
+            Adds a user to the system.
+            </summary>
+            <param name="matrNr">The matr.Nr. to validate the users rights.</param>
+            <param name="password">The password fot the matr.Nr.</param>
+            <returns>A message, if adding the user was successfull</returns>
+        </member>
+        <member name="M:NFCDataRESTApi.Controllers.UserController.PutUserToDataBase(NFCDataRESTApi.Models.UserModels.DeleteUser,System.String,System.String)">
+            <summary>
+            Deletes a user form the system.
+            </summary>
+            <param name="matrNr">The matr.Nr. to validate the users rights.</param>
+            <param name="password">The password fot the matr.Nr.</param>
+            <returns>A message, if adding the user was successfull</returns>
+        </member>
+    </members>
+</doc>

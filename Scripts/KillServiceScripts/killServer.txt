@@ -1,0 +1,3 @@
+echo momo1995 | sudo -S kill $(ps -ax | grep "moritz" | grep "REST" | awk '{print $1}')
+
+

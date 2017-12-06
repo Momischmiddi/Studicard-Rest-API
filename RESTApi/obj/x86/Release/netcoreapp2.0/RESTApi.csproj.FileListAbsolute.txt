@@ -1,0 +1,11 @@
+C:\Users\morit\Desktop\NFCRESTApi\RESTApi\RESTApi\bin\x86\Release\netcoreapp2.0\RESTApi.deps.json
+C:\Users\morit\Desktop\NFCRESTApi\RESTApi\RESTApi\bin\x86\Release\netcoreapp2.0\RESTApi.runtimeconfig.json
+C:\Users\morit\Desktop\NFCRESTApi\RESTApi\RESTApi\bin\x86\Release\netcoreapp2.0\RESTApi.runtimeconfig.dev.json
+C:\Users\morit\Desktop\NFCRESTApi\RESTApi\RESTApi\bin\x86\Release\netcoreapp2.0\RESTApi.dll
+C:\Users\morit\Desktop\NFCRESTApi\RESTApi\RESTApi\bin\x86\Release\netcoreapp2.0\RESTApi.pdb
+C:\Users\morit\Desktop\NFCRESTApi\RESTApi\RESTApi\bin\x86\Release\netcoreapp2.0\RESTApi.xml
+C:\Users\morit\Desktop\NFCRESTApi\RESTApi\RESTApi\obj\x86\Release\netcoreapp2.0\RESTApi.csproj.CoreCompileInputs.cache
+C:\Users\morit\Desktop\NFCRESTApi\RESTApi\RESTApi\obj\x86\Release\netcoreapp2.0\RESTApi.AssemblyInfoInputs.cache
+C:\Users\morit\Desktop\NFCRESTApi\RESTApi\RESTApi\obj\x86\Release\netcoreapp2.0\RESTApi.AssemblyInfo.cs
+C:\Users\morit\Desktop\NFCRESTApi\RESTApi\RESTApi\obj\x86\Release\netcoreapp2.0\RESTApi.dll
+C:\Users\morit\Desktop\NFCRESTApi\RESTApi\RESTApi\obj\x86\Release\netcoreapp2.0\RESTApi.pdb

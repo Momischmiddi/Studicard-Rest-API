@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>RESTApi</name>
+    </assembly>
+    <members>
+        <member name="M:NFCDataRESTApi.Controllers.NFCDataController.PutCardInformation(RESTApi.Models.NfcDataModels.CardInformationModel)">
+            <summary>
+            Puts a cardinformation to the database.
+            </summary>
+            <returns>A Message, if writing to the database was successful</returns>
+        </member>
+        <member name="M:NFCDataRESTApi.Controllers.NFCDataController.GetAverage">
+            <summary>
+            Gets the average for all card properties.
+            </summary>
+            <returns>A CardInformationModel, which contains the average of each property.</returns>
+        </member>
+        <member name="M:NFCDataRESTApi.Controllers.NFCDataController.GetStatistics(System.String)">
+            <summary>
+            Gets the statistics of a card owner.
+            </summary>
+        </member>
+        <member name="M:NFCDataRESTApi.Controllers.NFCDataController.GetScannedCardAmount">
+            <summary>
+            Gets the amount of cards scanned from the arduino.
+            </summary>
+            <returns>The amount of the scanned cards.</returns>
+        </member>
+        <member name="M:NFCDataRESTApi.Controllers.NFCDataController.GetCardInformationsByID(System.String)">
+            <summary>
+            Gets the informations of a card by id.
+            </summary>
+            <returns>The amount of the scanned cards.</returns>
+        </member>
+        <member name="M:NFCDataRESTApi.Controllers.NFCDataController.GetTotalScanAmount">
+            <summary>
+            Gets the amount of all scans that have been made.
+            </summary>
+            <returns>The amount of the scanned cards.</returns>
+        </member>
+        <member name="M:NFCDataRESTApi.Controllers.NFCDataController.Test">
+            <summary>
+            Test.
+            </summary>
+            <returns>Test</returns>
+        </member>
+    </members>
+</doc>

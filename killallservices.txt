@@ -1,0 +1,2 @@
+echo momo1995 | sudo -S /etc/masterKillAllScript.sh
+exit

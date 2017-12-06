@@ -1,0 +1,18 @@
+Error occured: 19.10.2017 21:41:42
+Sequence contains no elements.
+
+Error occured: 19.10.2017 21:42:20
+Sequence contains no elements.
+
+Error occured: 09.11.2017 19:51:26
+There is no database-entry with the ID '123'.
+
+Error occured: 09.11.2017 19:54:11
+There is no database-entry with the ID '123'.
+
+Error occured: 09.11.2017 19:55:05
+There is no database-entry with the ID '123'.
+
+Error occured: 09.11.2017 19:59:14
+There is no database-entry with the ID '123'.
+

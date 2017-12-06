@@ -1,0 +1,70 @@
+C:\Users\morit\Desktop\NFCRESTApi\RESTApi\RESTApi\bin\Debug\netcoreapp2.0\ubuntu.16.04-arm\libhostpolicy.so
+C:\Users\morit\Desktop\NFCRESTApi\RESTApi\RESTApi\bin\Debug\netcoreapp2.0\ubuntu.16.04-arm\libhostfxr.so
+C:\Users\morit\Desktop\NFCRESTApi\RESTApi\RESTApi\bin\Debug\netcoreapp2.0\ubuntu.16.04-arm\RESTApi
+C:\Users\morit\Desktop\NFCRESTApi\RESTApi\RESTApi\bin\Debug\netcoreapp2.0\ubuntu.16.04-arm\RESTApi.deps.json
+C:\Users\morit\Desktop\NFCRESTApi\RESTApi\RESTApi\bin\Debug\netcoreapp2.0\ubuntu.16.04-arm\RESTApi.runtimeconfig.json
+C:\Users\morit\Desktop\NFCRESTApi\RESTApi\RESTApi\bin\Debug\netcoreapp2.0\ubuntu.16.04-arm\RESTApi.runtimeconfig.dev.json
+C:\Users\morit\Desktop\NFCRESTApi\RESTApi\RESTApi\bin\Debug\netcoreapp2.0\ubuntu.16.04-arm\RESTApi.dll
+C:\Users\morit\Desktop\NFCRESTApi\RESTApi\RESTApi\bin\Debug\netcoreapp2.0\ubuntu.16.04-arm\RESTApi.pdb
+C:\Users\morit\Desktop\NFCRESTApi\RESTApi\RESTApi\obj\Debug\netcoreapp2.0\ubuntu.16.04-arm\RESTApi.csproj.CoreCompileInputs.cache
+C:\Users\morit\Desktop\NFCRESTApi\RESTApi\RESTApi\obj\Debug\netcoreapp2.0\ubuntu.16.04-arm\RESTApi.AssemblyInfoInputs.cache
+C:\Users\morit\Desktop\NFCRESTApi\RESTApi\RESTApi\obj\Debug\netcoreapp2.0\ubuntu.16.04-arm\RESTApi.AssemblyInfo.cs
+C:\Users\morit\Desktop\NFCRESTApi\RESTApi\RESTApi\obj\Debug\netcoreapp2.0\ubuntu.16.04-arm\RESTApi.dll
+C:\Users\morit\Desktop\NFCRESTApi\RESTApi\RESTApi\obj\Debug\netcoreapp2.0\ubuntu.16.04-arm\RESTApi.pdb
+C:\Users\morit\Desktop\NFCRESTApi\RESTApi\RESTApi\bin\Debug\netcoreapp2.0\ubuntu.16.04-arm\RESTApi.xml
+C:\Users\morit\Desktop\DotNetCore RESTAPI\RESTApi C# Backend\RESTApi\RESTApi\bin\Debug\netcoreapp2.0\ubuntu.16.04-arm\libhostpolicy.so
+C:\Users\morit\Desktop\DotNetCore RESTAPI\RESTApi C# Backend\RESTApi\RESTApi\bin\Debug\netcoreapp2.0\ubuntu.16.04-arm\libhostfxr.so
+C:\Users\morit\Desktop\DotNetCore RESTAPI\RESTApi C# Backend\RESTApi\RESTApi\bin\Debug\netcoreapp2.0\ubuntu.16.04-arm\RESTApi
+C:\Users\morit\Desktop\DotNetCore RESTAPI\RESTApi C# Backend\RESTApi\RESTApi\bin\Debug\netcoreapp2.0\ubuntu.16.04-arm\RESTApi.deps.json
+C:\Users\morit\Desktop\DotNetCore RESTAPI\RESTApi C# Backend\RESTApi\RESTApi\bin\Debug\netcoreapp2.0\ubuntu.16.04-arm\RESTApi.runtimeconfig.json
+C:\Users\morit\Desktop\DotNetCore RESTAPI\RESTApi C# Backend\RESTApi\RESTApi\bin\Debug\netcoreapp2.0\ubuntu.16.04-arm\RESTApi.runtimeconfig.dev.json
+C:\Users\morit\Desktop\DotNetCore RESTAPI\RESTApi C# Backend\RESTApi\RESTApi\bin\Debug\netcoreapp2.0\ubuntu.16.04-arm\RESTApi.dll
+C:\Users\morit\Desktop\DotNetCore RESTAPI\RESTApi C# Backend\RESTApi\RESTApi\bin\Debug\netcoreapp2.0\ubuntu.16.04-arm\RESTApi.pdb
+C:\Users\morit\Desktop\DotNetCore RESTAPI\RESTApi C# Backend\RESTApi\RESTApi\bin\Debug\netcoreapp2.0\ubuntu.16.04-arm\RESTApi.xml
+C:\Users\morit\Desktop\DotNetCore RESTAPI\RESTApi C# Backend\RESTApi\RESTApi\obj\Debug\netcoreapp2.0\ubuntu.16.04-arm\RESTApi.csproj.CoreCompileInputs.cache
+C:\Users\morit\Desktop\DotNetCore RESTAPI\RESTApi C# Backend\RESTApi\RESTApi\obj\Debug\netcoreapp2.0\ubuntu.16.04-arm\RESTApi.AssemblyInfoInputs.cache
+C:\Users\morit\Desktop\DotNetCore RESTAPI\RESTApi C# Backend\RESTApi\RESTApi\obj\Debug\netcoreapp2.0\ubuntu.16.04-arm\RESTApi.AssemblyInfo.cs
+C:\Users\morit\Desktop\DotNetCore RESTAPI\RESTApi C# Backend\RESTApi\RESTApi\obj\Debug\netcoreapp2.0\ubuntu.16.04-arm\RESTApi.dll
+C:\Users\morit\Desktop\DotNetCore RESTAPI\RESTApi C# Backend\RESTApi\RESTApi\obj\Debug\netcoreapp2.0\ubuntu.16.04-arm\RESTApi.pdb
+C:\Users\morit\Desktop\DotNetCoreRESTAPI\RESTApiC#Backend\RESTApi\RESTApi\bin\Debug\netcoreapp2.0\ubuntu.16.04-arm\libhostpolicy.so
+C:\Users\morit\Desktop\DotNetCoreRESTAPI\RESTApiC#Backend\RESTApi\RESTApi\bin\Debug\netcoreapp2.0\ubuntu.16.04-arm\libhostfxr.so
+C:\Users\morit\Desktop\DotNetCoreRESTAPI\RESTApiC#Backend\RESTApi\RESTApi\bin\Debug\netcoreapp2.0\ubuntu.16.04-arm\RESTApi
+C:\Users\morit\Desktop\DotNetCoreRESTAPI\RESTApiC#Backend\RESTApi\RESTApi\bin\Debug\netcoreapp2.0\ubuntu.16.04-arm\RESTApi.deps.json
+C:\Users\morit\Desktop\DotNetCoreRESTAPI\RESTApiC#Backend\RESTApi\RESTApi\bin\Debug\netcoreapp2.0\ubuntu.16.04-arm\RESTApi.runtimeconfig.json
+C:\Users\morit\Desktop\DotNetCoreRESTAPI\RESTApiC#Backend\RESTApi\RESTApi\bin\Debug\netcoreapp2.0\ubuntu.16.04-arm\RESTApi.runtimeconfig.dev.json
+C:\Users\morit\Desktop\DotNetCoreRESTAPI\RESTApiC#Backend\RESTApi\RESTApi\bin\Debug\netcoreapp2.0\ubuntu.16.04-arm\RESTApi.dll
+C:\Users\morit\Desktop\DotNetCoreRESTAPI\RESTApiC#Backend\RESTApi\RESTApi\bin\Debug\netcoreapp2.0\ubuntu.16.04-arm\RESTApi.pdb
+C:\Users\morit\Desktop\DotNetCoreRESTAPI\RESTApiC#Backend\RESTApi\RESTApi\bin\Debug\netcoreapp2.0\ubuntu.16.04-arm\RESTApi.xml
+C:\Users\morit\Desktop\DotNetCoreRESTAPI\RESTApiC#Backend\RESTApi\RESTApi\obj\Debug\netcoreapp2.0\ubuntu.16.04-arm\RESTApi.csproj.CoreCompileInputs.cache
+C:\Users\morit\Desktop\DotNetCoreRESTAPI\RESTApiC#Backend\RESTApi\RESTApi\obj\Debug\netcoreapp2.0\ubuntu.16.04-arm\RESTApi.AssemblyInfoInputs.cache
+C:\Users\morit\Desktop\DotNetCoreRESTAPI\RESTApiC#Backend\RESTApi\RESTApi\obj\Debug\netcoreapp2.0\ubuntu.16.04-arm\RESTApi.AssemblyInfo.cs
+C:\Users\morit\Desktop\DotNetCoreRESTAPI\RESTApiC#Backend\RESTApi\RESTApi\obj\Debug\netcoreapp2.0\ubuntu.16.04-arm\RESTApi.dll
+C:\Users\morit\Desktop\DotNetCoreRESTAPI\RESTApiC#Backend\RESTApi\RESTApi\obj\Debug\netcoreapp2.0\ubuntu.16.04-arm\RESTApi.pdb
+C:\Users\morit\Desktop\Hochschule\Sysad\DotNetCoreRESTAPI\RESTApiC#Backend\RESTApi\RESTApi\bin\Debug\netcoreapp2.0\ubuntu.16.04-arm\libhostpolicy.so
+C:\Users\morit\Desktop\Hochschule\Sysad\DotNetCoreRESTAPI\RESTApiC#Backend\RESTApi\RESTApi\bin\Debug\netcoreapp2.0\ubuntu.16.04-arm\libhostfxr.so
+C:\Users\morit\Desktop\Hochschule\Sysad\DotNetCoreRESTAPI\RESTApiC#Backend\RESTApi\RESTApi\bin\Debug\netcoreapp2.0\ubuntu.16.04-arm\RESTApi
+C:\Users\morit\Desktop\Hochschule\Sysad\DotNetCoreRESTAPI\RESTApiC#Backend\RESTApi\RESTApi\bin\Debug\netcoreapp2.0\ubuntu.16.04-arm\RESTApi.deps.json
+C:\Users\morit\Desktop\Hochschule\Sysad\DotNetCoreRESTAPI\RESTApiC#Backend\RESTApi\RESTApi\bin\Debug\netcoreapp2.0\ubuntu.16.04-arm\RESTApi.runtimeconfig.json
+C:\Users\morit\Desktop\Hochschule\Sysad\DotNetCoreRESTAPI\RESTApiC#Backend\RESTApi\RESTApi\bin\Debug\netcoreapp2.0\ubuntu.16.04-arm\RESTApi.runtimeconfig.dev.json
+C:\Users\morit\Desktop\Hochschule\Sysad\DotNetCoreRESTAPI\RESTApiC#Backend\RESTApi\RESTApi\bin\Debug\netcoreapp2.0\ubuntu.16.04-arm\RESTApi.dll
+C:\Users\morit\Desktop\Hochschule\Sysad\DotNetCoreRESTAPI\RESTApiC#Backend\RESTApi\RESTApi\bin\Debug\netcoreapp2.0\ubuntu.16.04-arm\RESTApi.pdb
+C:\Users\morit\Desktop\Hochschule\Sysad\DotNetCoreRESTAPI\RESTApiC#Backend\RESTApi\RESTApi\bin\Debug\netcoreapp2.0\ubuntu.16.04-arm\RESTApi.xml
+C:\Users\morit\Desktop\Hochschule\Sysad\DotNetCoreRESTAPI\RESTApiC#Backend\RESTApi\RESTApi\obj\Debug\netcoreapp2.0\ubuntu.16.04-arm\RESTApi.csproj.CoreCompileInputs.cache
+C:\Users\morit\Desktop\Hochschule\Sysad\DotNetCoreRESTAPI\RESTApiC#Backend\RESTApi\RESTApi\obj\Debug\netcoreapp2.0\ubuntu.16.04-arm\RESTApi.AssemblyInfoInputs.cache
+C:\Users\morit\Desktop\Hochschule\Sysad\DotNetCoreRESTAPI\RESTApiC#Backend\RESTApi\RESTApi\obj\Debug\netcoreapp2.0\ubuntu.16.04-arm\RESTApi.AssemblyInfo.cs
+C:\Users\morit\Desktop\Hochschule\Sysad\DotNetCoreRESTAPI\RESTApiC#Backend\RESTApi\RESTApi\obj\Debug\netcoreapp2.0\ubuntu.16.04-arm\RESTApi.dll
+C:\Users\morit\Desktop\Hochschule\Sysad\DotNetCoreRESTAPI\RESTApiC#Backend\RESTApi\RESTApi\obj\Debug\netcoreapp2.0\ubuntu.16.04-arm\RESTApi.pdb
+C:\Users\morit\Desktop\Code Sysad\REST-Backend\RESTApi\RESTApi\bin\Debug\netcoreapp2.0\ubuntu.16.04-arm\libhostpolicy.so
+C:\Users\morit\Desktop\Code Sysad\REST-Backend\RESTApi\RESTApi\bin\Debug\netcoreapp2.0\ubuntu.16.04-arm\libhostfxr.so
+C:\Users\morit\Desktop\Code Sysad\REST-Backend\RESTApi\RESTApi\bin\Debug\netcoreapp2.0\ubuntu.16.04-arm\RESTApi
+C:\Users\morit\Desktop\Code Sysad\REST-Backend\RESTApi\RESTApi\bin\Debug\netcoreapp2.0\ubuntu.16.04-arm\RESTApi.deps.json
+C:\Users\morit\Desktop\Code Sysad\REST-Backend\RESTApi\RESTApi\bin\Debug\netcoreapp2.0\ubuntu.16.04-arm\RESTApi.runtimeconfig.json
+C:\Users\morit\Desktop\Code Sysad\REST-Backend\RESTApi\RESTApi\bin\Debug\netcoreapp2.0\ubuntu.16.04-arm\RESTApi.runtimeconfig.dev.json
+C:\Users\morit\Desktop\Code Sysad\REST-Backend\RESTApi\RESTApi\bin\Debug\netcoreapp2.0\ubuntu.16.04-arm\RESTApi.dll
+C:\Users\morit\Desktop\Code Sysad\REST-Backend\RESTApi\RESTApi\bin\Debug\netcoreapp2.0\ubuntu.16.04-arm\RESTApi.pdb
+C:\Users\morit\Desktop\Code Sysad\REST-Backend\RESTApi\RESTApi\bin\Debug\netcoreapp2.0\ubuntu.16.04-arm\RESTApi.xml
+C:\Users\morit\Desktop\Code Sysad\REST-Backend\RESTApi\RESTApi\obj\Debug\netcoreapp2.0\ubuntu.16.04-arm\RESTApi.csproj.CoreCompileInputs.cache
+C:\Users\morit\Desktop\Code Sysad\REST-Backend\RESTApi\RESTApi\obj\Debug\netcoreapp2.0\ubuntu.16.04-arm\RESTApi.AssemblyInfoInputs.cache
+C:\Users\morit\Desktop\Code Sysad\REST-Backend\RESTApi\RESTApi\obj\Debug\netcoreapp2.0\ubuntu.16.04-arm\RESTApi.AssemblyInfo.cs
+C:\Users\morit\Desktop\Code Sysad\REST-Backend\RESTApi\RESTApi\obj\Debug\netcoreapp2.0\ubuntu.16.04-arm\RESTApi.dll
+C:\Users\morit\Desktop\Code Sysad\REST-Backend\RESTApi\RESTApi\obj\Debug\netcoreapp2.0\ubuntu.16.04-arm\RESTApi.pdb
