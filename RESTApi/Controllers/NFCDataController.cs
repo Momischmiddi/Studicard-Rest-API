@@ -152,6 +152,69 @@ namespace NFCDataRESTApi.Controllers
             }
         }
 
+        /// <summary>
+        /// Gets the last transactions of the current day.
+        /// </summary>
+        /// <returns>A list of todays last transactions.</returns>
+        [HttpGet("/lasttransactionsoftoday/{id}")]
+        [Produces("application/json")]
+        [ProducesResponseType(typeof(List<double>), (int)HttpStatusCode.OK)]
+        public async Task<IActionResult> GetLastTransactionsOfToday(string id)
+        {
+            try
+            {
+                var result = await this.studiCardRepository.GetLastTransactionsOfToday(id);
+                return this.Ok(result);
+            }
+            catch (Exception e)
+            {
+                this.errorHandlingRepository.LogAndPrintError(e);
+                return this.BadRequest(new ErrorModel { ErrorMessage = "Error while getting all availabld card informations: " + e.Message });
+            }
+        }
+
+        /// <summary>
+        /// Gets the last transactions of this week.
+        /// </summary>
+        /// <returns>A list of this weeks last transactions.</returns>
+        [HttpGet("/lasttransactionsofthisweek/{id}")]
+        [Produces("application/json")]
+        [ProducesResponseType(typeof(List<double>), (int)HttpStatusCode.OK)]
+        public async Task<IActionResult> GetLastTransactionsOfThisWeek(string id)
+        {
+            try
+            {
+                var result = await this.studiCardRepository.GetLastTransactionsOfThisWeek(id);
+                return this.Ok(result);
+            }
+            catch (Exception e)
+            {
+                this.errorHandlingRepository.LogAndPrintError(e);
+                return this.BadRequest(new ErrorModel { ErrorMessage = "Error while getting all availabld card informations: " + e.Message });
+            }
+        }
+
+        /// <summary>
+        /// Gets the last transactions of this month.
+        /// </summary>
+        /// <returns>A list of this weeks last transactions.</returns>
+        [HttpGet("/lasttransactionsofthismonth/{id}")]
+        [Produces("application/json")]
+        [ProducesResponseType(typeof(List<double>), (int)HttpStatusCode.OK)]
+        public async Task<IActionResult> GetLastTransactionsOfThisMonth(string id)
+        {
+            try
+            {
+                var result = await this.studiCardRepository.GetLastTransactionsOfThisMonth(id);
+                return this.Ok(result);
+            }
+            catch (Exception e)
+            {
+                this.errorHandlingRepository.LogAndPrintError(e);
+                return this.BadRequest(new ErrorModel { ErrorMessage = "Error while getting all availabld card informations: " + e.Message });
+            }
+        }
+
         private bool IsValidPassword(string modelPassword)
         {
             return modelPassword == "9amfdn378fbnsd9s9nn2829mcmh888y8v87v6vb4b32ffw8w9f9fhnnUASDnD932nNGANWMV7anfminOFNAUASDN923734bJKASBUDAXKCNajbadsQUnkasd92734";

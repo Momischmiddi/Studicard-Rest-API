@@ -256,5 +256,47 @@ namespace NFCDataRESTApi.Repositories
 
             return result;
         }
+
+        public async Task<List<double>> GetLastTransactionsOfToday(string id)
+        {
+            var result = new List<double>();
+
+            var scansOfStudent = this.dataBase.CardInformationForStudent.Where(card => card.ID == id);
+            var scansOfTodaysDate = await
+                scansOfStudent.Where(scan => DateTime.Parse(scan.ScanDate).Year == DateTime.Now.Year && DateTime.Parse(scan.ScanDate).DayOfYear == DateTime.Now.DayOfYear).ToListAsync();
+            foreach (var scan in scansOfTodaysDate)
+            {
+                result.Add(scan.LastTransaction);
+            }
+            return result;
+        }
+
+        public async Task<List<double>> GetLastTransactionsOfThisWeek(string id)
+        {
+            var result = new List<double>();
+
+            var scansOfStudent = this.dataBase.CardInformationForStudent.Where(card => card.ID == id);
+            var scansOfThisWeek = await scansOfStudent.Where(scan => DateTime.Parse(scan.ScanDate) > DateTime.Now.AddDays(-7))
+                .ToListAsync();
+            foreach (var scan in scansOfThisWeek)
+            {
+                result.Add(scan.LastTransaction);
+            }
+            return result;
+        }
+
+        public async Task<List<double>> GetLastTransactionsOfThisMonth(string id)
+        {
+            var result = new List<double>();
+
+            var scansOfStudent = this.dataBase.CardInformationForStudent.Where(card => card.ID == id);
+            var scansOfThisMonth = await scansOfStudent.Where(scan => DateTime.Parse(scan.ScanDate).Month == DateTime.Now.Month && DateTime.Parse(scan.ScanDate).Year == DateTime.Now.Year)
+                .ToListAsync();
+            foreach (var scan in scansOfThisMonth)
+            {
+                result.Add(scan.LastTransaction);
+            }
+            return result;
+        }
     }
 }
