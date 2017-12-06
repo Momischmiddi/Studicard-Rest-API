@@ -12768,11 +12768,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\morit\\Desktop\\Code Sysad\\REST-Backend\\RESTApi\\RESTApi\\RESTApi.csproj",
+      "projectUniqueName": "C:\\Users\\morit\\Documents\\GitHub\\Studicard-Rest-API\\RESTApi\\RESTApi.csproj",
       "projectName": "RESTApi",
-      "projectPath": "C:\\Users\\morit\\Desktop\\Code Sysad\\REST-Backend\\RESTApi\\RESTApi\\RESTApi.csproj",
+      "projectPath": "C:\\Users\\morit\\Documents\\GitHub\\Studicard-Rest-API\\RESTApi\\RESTApi.csproj",
       "packagesPath": "C:\\Users\\morit\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\morit\\Desktop\\Code Sysad\\REST-Backend\\RESTApi\\RESTApi\\obj\\",
+      "outputPath": "C:\\Users\\morit\\Documents\\GitHub\\Studicard-Rest-API\\RESTApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

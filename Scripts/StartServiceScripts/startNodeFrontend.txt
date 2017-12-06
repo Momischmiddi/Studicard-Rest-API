@@ -1,1 +1,0 @@
-echo momo1995 | sudo -S nohup node /home/moritz/NodeJS/app.js &

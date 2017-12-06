@@ -1,8 +1,0 @@
-open sftp://moritz:momo1995@192.168.178.116:22
-put RESTApi\bin\Debug\netcoreapp2.0\ubuntu.16.04-arm\publish\RESTApi.xml
-put RESTApi\bin\Debug\netcoreapp2.0\ubuntu.16.04-arm\publish\RESTApi.pdb
-put RESTApi\bin\Debug\netcoreapp2.0\ubuntu.16.04-arm\publish\RESTApi.dll
-put RESTApi\bin\Debug\netcoreapp2.0\ubuntu.16.04-arm\publish\web.config
-put RESTApi\bin\Debug\netcoreapp2.0\ubuntu.16.04-arm\publish\RESTApi.runtimeconfig.json
-put RESTApi\bin\Debug\netcoreapp2.0\ubuntu.16.04-arm\publish\RESTApi.deps.json
-exit
